@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Andy Pan</h1>
 <h3 align="center">Backend Developer | Java | 🍊</h3>
 
-- 🌱 I’m currently learning **Python, Swift and app development**
+- 🌱 I’m currently learning **Python, Swift, React and App development**
 
 - 💬 Ask me about **Java, Javascript, AWS and Cooking :D**
 
