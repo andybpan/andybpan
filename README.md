@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Swift, React and App development**
 
-- 💬 Ask me about **Java, Javascript, AWS and Cooking :D**
+- 💬 Ask me about **Java, Javascript, AWS and Cooking**
 
 - 📫 How to reach me **andybpan@gmail.com**
 
