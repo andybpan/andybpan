@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Andy Pan</h1>
-<h3 align="center">Backend Developer | Java | 🍊</h3>
+<h3 align="center">Fullstack Software Developer | 🍊</h3>
 
-- 🌱 I’m currently learning **Python, Swift, React and App development**
+- 🌱 I’m currently learning **Swift**
 
-- 💬 Ask me about **Java, Javascript, AWS and Cooking**
+- 💬 Ask me about **Java, Python, JS or TS**
 
 - 📫 How to reach me **andybpan@gmail.com**
 
